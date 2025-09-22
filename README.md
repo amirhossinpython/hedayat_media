@@ -161,7 +161,7 @@ if __name__ == "__main__":
 ## 📦 نصب
 
 ```bash
-pip install hedayat_media
+pip install --upgrade hedayat-media
 
 
 
